@@ -1,0 +1,1100 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.4/staging' branch; Version is '6000.4.2f1 (7a4c1aeef971) revision 8014874'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'ro' Physical Memory: 31895 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-marut" at "2026-04-19T22:37:05.2462434Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-04-19T22:37:05Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.4.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+G:/Unity/ALJV_GA_RL
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+49822
+-licensingIpc
+LicenseClient-marut
+-force-d3d12
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: G:/Unity/ALJV_GA_RL
+G:/Unity/ALJV_GA_RL
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [32856]  Target information:
+
+Player connection [32856]  * "[IP] 192.168.1.132 [Port] 0 [Flags] 2 [Guid] 119944076 [EditorId] 119944076 [Version] 1048832 [Id] WindowsEditor(7,SEMM) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [32856] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [32856] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 5.92 ms, found 5 plugins.
+Initialize engine version: 6000.4.2f1 (7a4c1aeef971)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Unity/ALJV_GA_RL/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 4070 (ID=0x2786)
+    Vendor:          NVIDIA
+    VRAM:            12010 MB
+    App VRAM Budget: 11242 MB
+    Driver:          32.0.15.9186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56444
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-marut"
+[Licensing::IpcConnector] LicenseClient-marut channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-marut-6000.4.2" at "2026-04-19T22:37:06.1749161Z"
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001299 seconds.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.343 seconds
+Domain Reload Profiling: 742ms
+	BeginReloadAssembly (119ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (178ms)
+		LoadAssemblies (116ms)
+		AnalyzeDomain (171ms)
+			TypeCache.Refresh (169ms)
+				TypeCache.ScanAssembly (155ms)
+	FinalizeReload (344ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (39ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (89ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              99938b2e57b14813a503c6bd82e239c4
+  Correlation Id:          b84aa4e0fae29d032e1fa4201cf32aa5
+  External correlation Id: 4104633920254648430
+  Machine Id:              lbm9jipSuAbAT4gxE/s2J91WVdw=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-marut-6000.4.2" (connect: 0.00s, validation: 0.00s, handshake: 0.82s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-marut-6000.4.2-notifications" at "2026-04-19T22:37:06.9986629Z"
+[Licensing::Module] Licensing Background thread has ended after 1.75s
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-9KN3-9UX3-98DY-N5FG-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 7971640060890-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Refreshing native plugins compatible for Editor in 2.15 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.661 seconds
+Domain Reload Profiling: 1375ms
+	BeginReloadAssembly (151ms)
+		DisableScriptedObjects (5ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (462ms)
+		LoadAssemblies (310ms)
+		AnalyzeDomain (227ms)
+			TypeCache.Refresh (161ms)
+				TypeCache.ScanAssembly (146ms)
+			BuildScriptInfoCaches (57ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (663ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (124ms)
+			ProcessInitializeOnLoadAttributes (268ms)
+			ProcessInitializeOnLoadMethodAttributes (118ms)
+			AfterProcessingInitializeOnLoad (6ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7314 unused Assets / (5.9 MB). Loaded Objects now: 8155.
+Memory consumption went from 166.7 MB to 160.7 MB.
+Total: 8.008100 ms (FindLiveObjects: 0.847900 ms CreateObjectMapping: 0.590800 ms MarkObjects: 4.259300 ms  DeleteObjects: 2.308200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 281611.086275 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_630.asset
+  importAddress: Guid(d5ce05a3f41c44d49b9f2a8e31404cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_630.asset using Guid(d5ce05a3f41c44d49b9f2a8e31404cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8743d6d1f7dd90658abe4b712d443905') in 0.0503461 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5f6dea88a4ebfe1334290e1cf1a3fc35 DependenciesID=b8090764d3b2d2ed5f84d94342e8b379 StaticDependenciesID=2a1510ca839026c4b1406eb67ad5e846 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_402.asset
+  importAddress: Guid(f1f7a32091c480849a082779ba76b046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_402.asset using Guid(f1f7a32091c480849a082779ba76b046) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9c32789ee6399cc1d057e88504648e14') in 0.006262 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d08d57b90d4b2127df3033ce078e6daa DependenciesID=1b3f1ed407241812d6cb5f602f1e505a StaticDependenciesID=3479b5aea09869c63befd1b90e214db1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_667.asset
+  importAddress: Guid(f80cd10ca3967534096af5288af07373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_667.asset using Guid(f80cd10ca3967534096af5288af07373) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6b2263edb1f362cb47f06c7cb746b430') in 0.0101054 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=82267d27d9ecf3caf0bfaca9020a96c8 DependenciesID=d4e267cc049a78c02ea5ecbf71092359 StaticDependenciesID=f854cc6eadd621fe3eef2d44fffd0fed 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_474.asset
+  importAddress: Guid(4b709402577b68f4ab0af5a12cdc698c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_474.asset using Guid(4b709402577b68f4ab0af5a12cdc698c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '185c6d446fafb81154e77cdd684d7233') in 0.0047189 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=49c82d4bc763d1a732c7534714f96fce DependenciesID=fe4b4d5d8befe4acd4505bdcf5f3548a StaticDependenciesID=54b04aff034c66211a3ff8ac0631d1ba 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_359.asset
+  importAddress: Guid(5ca26f038e528c6438abe8e19be3e7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_359.asset using Guid(5ca26f038e528c6438abe8e19be3e7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd21334b5b75747af602b9ba64de1324a') in 0.005828 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=468843f874ce0ecc7e34a043e393a843 DependenciesID=f3ecbfe3b9c44f15d2d487ec97b8e6a2 StaticDependenciesID=a3b2ed46ffbc5cdb7781d9f6fbec4ed6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_674.asset
+  importAddress: Guid(9849c10941e58ed46a1aa13694ef363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_674.asset using Guid(9849c10941e58ed46a1aa13694ef363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c8774c52e0b1861531171d84c6a1c94d') in 0.006873 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f34cadc416900a2a73432319247ae66c DependenciesID=c03e5a648318bd98fe9a5136a66c3fb5 StaticDependenciesID=931529030085cc21aa79f690abed63a8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_519.asset
+  importAddress: Guid(fefd3b4838668f64290c15a68a351d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_519.asset using Guid(fefd3b4838668f64290c15a68a351d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '223a451ea13dbfafb61bd092131496ff') in 0.0054087 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6dd00cc5769e6eaf3ed384e83cc310ba DependenciesID=dd97954e1adbd0ce82733d6e977bb28a StaticDependenciesID=58b0a110860692ecdcab48af9078edf3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_546.asset
+  importAddress: Guid(96c9fb800dd9f614c9c14083d573f738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_546.asset using Guid(96c9fb800dd9f614c9c14083d573f738) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '566412749d0a674c76ce38397f1dcbe6') in 0.0108805 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=32fc369036a3706585cd93e3bf9780c8 DependenciesID=87b8abff47be5d6f2f1f1637cb21853d StaticDependenciesID=700541048c8f96394ecaaed79062dc65 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_651.asset
+  importAddress: Guid(018e26534ba4cd0449706b853d43d111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_651.asset using Guid(018e26534ba4cd0449706b853d43d111) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4465a0dfd585b9cef5416c53768782b9') in 0.0102547 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=11a76aa888e7c67781fee52b0ef170a6 DependenciesID=250859a0eeaff5c94afd138a8a7bf851 StaticDependenciesID=b2d61a492df416ebb8b4f9eb508d7572 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_573.asset
+  importAddress: Guid(a0cb9e7ca0871c4409a954ae31dc2ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_573.asset using Guid(a0cb9e7ca0871c4409a954ae31dc2ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'db25edd70aa1a90f115a202bcff8a020') in 0.0052047 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ca0ce66953d37155baa685ab39173a80 DependenciesID=7a0813d690c98f42d9c460be7a1c714f StaticDependenciesID=5f16074ab8e908671eb93fad14b95758 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_627.asset
+  importAddress: Guid(0692f7be9c45dac41b2f34c895447dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_627.asset using Guid(0692f7be9c45dac41b2f34c895447dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd680e91f4985102070adc5e52923ab61') in 0.0098716 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=183580141cbd3c4c540d91fdea497942 DependenciesID=0d8e8f663f2623de6db17e070ea7ef65 StaticDependenciesID=ef815c1b6f036e58d9691ea9bd43a898 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_398.asset
+  importAddress: Guid(73051e6de5b342341ab361baa9966c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_398.asset using Guid(73051e6de5b342341ab361baa9966c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '62bd5cdee2f4f1efe4551bf226b91e97') in 0.0056357 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e27322c17b005bed2d5375d37688927c DependenciesID=8e8ffc8f79805c26739f322779b958e2 StaticDependenciesID=96fbe0c06d86f7e8da804564b8fd326c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_441.asset
+  importAddress: Guid(77ab7b39cb3ff774e812b9843418be46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_441.asset using Guid(77ab7b39cb3ff774e812b9843418be46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8032041555cf2d2876be1b08ed813d9d') in 0.0059383 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2acb402bdce82e362b734d707cd78232 DependenciesID=2ef9831eb37e3d98c680598bb63f3c78 StaticDependenciesID=7b968c3374d1b3e7e54d58326869a41a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_666.asset
+  importAddress: Guid(ee12792461d66fd4489c76fb176357ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_666.asset using Guid(ee12792461d66fd4489c76fb176357ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0042ffaff31e11648d19c776a23bca57') in 0.0094184 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=33a2dcd6371961337d79a7c69a13fbec DependenciesID=c0215fc71d44bb9a3e606250d96db129 StaticDependenciesID=5bab03bd86bccaee0fbc2a201ef89a2a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_671.asset
+  importAddress: Guid(09f95c221e1c7d64eafc3c5855ef214e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_671.asset using Guid(09f95c221e1c7d64eafc3c5855ef214e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '07b492e42ea4b2556519c76552a98c72') in 0.0067728 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7a1dc38510440b7f9f12abc94e057b4e DependenciesID=8016cdfb00c37cdfd604c80721940fdd StaticDependenciesID=7d361c1f175f71810cc7bf62df3f215b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_644.asset
+  importAddress: Guid(ab5477b6d3228004eb7c412445e40feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_644.asset using Guid(ab5477b6d3228004eb7c412445e40feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9b062c6ced2b24c72d6b029cf572cf27') in 0.0105989 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f19451614fccabea932a1d8e364c3fc DependenciesID=d4ad5d45701aabd6c3e2efcbb67869c9 StaticDependenciesID=fa749ca1d1ca1803991f5ed4f105912a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_646.asset
+  importAddress: Guid(d82330748ec556e439fde18baec9fbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_646.asset using Guid(d82330748ec556e439fde18baec9fbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '66419f8bb3d4a14fa8e7f8f8c2189ad0') in 0.0061036 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=198e9114bed0ee979bf52bcff028c9d5 DependenciesID=9fda9fb0ae6cfa8e2af82683d6cbb21e StaticDependenciesID=a905a8c8dd841ac8752707ff2003dec5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_576.asset
+  importAddress: Guid(a7c5c775ffee7324589d387a0f2e39da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_576.asset using Guid(a7c5c775ffee7324589d387a0f2e39da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a8cf64fdf0568fd52eff30e751c9eaaf') in 0.0106475 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a0559f9da08ff12fa7166f271b10815f DependenciesID=04ecdf2b503a263eb5e2cc32a3ac09f1 StaticDependenciesID=44f5b43090444c02efd5a45f9bae4aa9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_556.asset
+  importAddress: Guid(7cc470dd9756dab4eba4d3e7f8dbdb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_556.asset using Guid(7cc470dd9756dab4eba4d3e7f8dbdb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '01f888babf64e70c33629f67211fb20a') in 0.0109738 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5184146dbac2ef589e87bb03c1640497 DependenciesID=4458df3c0e771a4e70569059194ebd01 StaticDependenciesID=a6beacd9c906d10baad1b133d99cc3d7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_521.asset
+  importAddress: Guid(c862f7d1e31389e4ba769351e1c053da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_521.asset using Guid(c862f7d1e31389e4ba769351e1c053da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6d42ee19c72c4f77ddff8aa1f85e70a0') in 0.0098274 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d073763dbd5fea1c989b1384ddd4d499 DependenciesID=eaa97bb894d0b03b1a761bf5740aa44d StaticDependenciesID=c1de7f538618c046211ae5b179a49d65 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_579.asset
+  importAddress: Guid(355d5c346f58a3c44a0b22b3e577e4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_579.asset using Guid(355d5c346f58a3c44a0b22b3e577e4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a2d01a7927e12661a9453014fb9eb65e') in 0.0099981 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dcd499eb020fca02b61c8f373f27b05c DependenciesID=68337f4b4e367c000a4b737ac73a8e9d StaticDependenciesID=4c0d043a42cae3e5e21bf1af182425c7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_609.asset
+  importAddress: Guid(e5dfa11b08dbcc840a6aa40fba49dbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_609.asset using Guid(e5dfa11b08dbcc840a6aa40fba49dbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a1551f382c6508680435602f00dfa71b') in 0.0099723 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=513d3331ebf5ce0380ce1d0840bec3de DependenciesID=ac9a140bffb3556f24027f2f6225668a StaticDependenciesID=057b5903b78a1393c14117071c9fcd9b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_605.asset
+  importAddress: Guid(ac29ca47a2d53a441810f17f087c8fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_605.asset using Guid(ac29ca47a2d53a441810f17f087c8fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '00d46c400e2b3842bea015423efa3426') in 0.0112944 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1f11d807349a23a5f492f9a94116f1e1 DependenciesID=f174b9520f1affe409d2b4d63590b6a2 StaticDependenciesID=f33541d1e049cbcd38dee13885177e05 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_431.asset
+  importAddress: Guid(cd94df7e3cbdf2941993d9a39e03bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_431.asset using Guid(cd94df7e3cbdf2941993d9a39e03bfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '74dc8658817af978f6fd621e55fefb60') in 0.0057143 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0e0c4f1c4e3d1800c4600e773e6102bc DependenciesID=67750605be627debab87b9eac0e7a239 StaticDependenciesID=cdecc4a1714459f543f523b19d2d2fdc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_590.asset
+  importAddress: Guid(e26d5591ecffa9641857543ce393423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_590.asset using Guid(e26d5591ecffa9641857543ce393423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '524bbe2b55c1fd9f9d1994ffe35883a8') in 0.0109788 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b46b23f1bee36cf7813a92507f6dcadc DependenciesID=0ca5f6d59d4386380d4123a7edf8ac3d StaticDependenciesID=3a5b7c1fa93e76b31d548fc39a157fd7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_391.asset
+  importAddress: Guid(e78bfcbcc77bd544c836ffae4e0120ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_391.asset using Guid(e78bfcbcc77bd544c836ffae4e0120ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '713f0b1d33accf3067435f4480a3282e') in 0.0074592 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=394e653581d1a36c245de98b1e9fbae0 DependenciesID=790a89ecac24a7fac2f4928737c161b9 StaticDependenciesID=269ca648778082b63373311d60f0ddfb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_636.asset
+  importAddress: Guid(2989413e31a502445b80856c8749c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_636.asset using Guid(2989413e31a502445b80856c8749c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '5b3803fd75d8df37e826dabf612b576d') in 0.0101595 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f1b882b1166a9ac70f5befa832480523 DependenciesID=3f183fc171f2a87bd0d0161b65cdb8de StaticDependenciesID=575d09c49d9cfd1909494975350862e6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_623.asset
+  importAddress: Guid(3e62509bf6ed26148afeb5528ce4314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_623.asset using Guid(3e62509bf6ed26148afeb5528ce4314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a07bb95e522a9d43978114b380952310') in 0.0095732 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a3920533082cf12fa2de95759f83afc0 DependenciesID=bd8aafcc745f6a6585ec3907e07d93e0 StaticDependenciesID=78370003af14156919a1b7d56aab0d1c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_510.asset
+  importAddress: Guid(8bb255a85447e4e4791d5b1e7b523c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_510.asset using Guid(8bb255a85447e4e4791d5b1e7b523c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f257023442e24ee061d6b4d2bd193046') in 0.0055549 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2ac9cdfb70daaddda37d098e2382e4aa DependenciesID=dbf801b66521847e29bdbdb0fe33c852 StaticDependenciesID=74a30d2059e90babc47f1d2386d6a603 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_264.asset
+  importAddress: Guid(a167ec1cef239824597e15abc8fa59ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_264.asset using Guid(a167ec1cef239824597e15abc8fa59ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e3e40fd7b86d97bece09b2c5804ea40d') in 0.010324 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=899148660286c78674c9e1db0edabde9 DependenciesID=a0ea5b9e17393f7334c160426c13906a StaticDependenciesID=d9da81b1bc562409f03b3ddb525d8d1a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_567.asset
+  importAddress: Guid(1774d9e9b7f4ed643a6052cacc3530ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_567.asset using Guid(1774d9e9b7f4ed643a6052cacc3530ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4c2e7a9f97b6b2aa5104cf0035e1fe3d') in 0.0059968 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1bb724fdb0062e26546173315ccb27ea DependenciesID=44eb489ce4165e4602b953649de98ec9 StaticDependenciesID=fa2c5507ec4a0c2faf6150032b500fc0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_502.asset
+  importAddress: Guid(54cbd6f5b1b0aa146830855fcc6775bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_502.asset using Guid(54cbd6f5b1b0aa146830855fcc6775bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd85d9c7cca930911bf4294d47dd00f2e') in 0.0063452 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b3103bee2dbdc562c1a874b0610d3eec DependenciesID=879e8ad4c1d407a5b400234ff832073a StaticDependenciesID=2c4baf6d8444c8ebcb1cbf62dbc19023 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_327.asset
+  importAddress: Guid(729c16a3e6573354c85511764c79ae61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_327.asset using Guid(729c16a3e6573354c85511764c79ae61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '85a27fab4cebc1a5b31ba70122ae351e') in 0.011099 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=39ed2d34c3ddd632f538dfbd272f0455 DependenciesID=82ecee3770c2396fb9fc51508afc5d07 StaticDependenciesID=d010692368ff0e074001e6a8e196a8be 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_604.asset
+  importAddress: Guid(f9357246941f9b54f955743262dd19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_604.asset using Guid(f9357246941f9b54f955743262dd19a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6a4e08db2cc8a0341bbc0473a74e8d0f') in 0.0112506 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d9ca0eaaae1098ec8d2b0dbb9824aa39 DependenciesID=fbc16d44c35bf93e8f1ded51e4fab0ad StaticDependenciesID=7cd5de0dbdb1323ccf6d96d824ad66bc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_442.asset
+  importAddress: Guid(263cfc568728c9240830b07832768541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_442.asset using Guid(263cfc568728c9240830b07832768541) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '20320d8a7c19f301188f146808f86fc5') in 0.0110268 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f90929c0e1ffbd23a07b5917943b7dba DependenciesID=1e119dca094a702efd38097ebd6995b1 StaticDependenciesID=7be9c162367656b27c400a5fbe0f58f1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_652.asset
+  importAddress: Guid(7869753655d1834418bb63c998730d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_652.asset using Guid(7869753655d1834418bb63c998730d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd8d8f7f91893aee6d867da0f3fa98572') in 0.0143571 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a991b643d5e3b416e1b1afe53deb9572 DependenciesID=f94a00ba37f5f53d8d78a20c4823b49c StaticDependenciesID=8c455d952a50ee2519f2b302b212420d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_621.asset
+  importAddress: Guid(3692207e1f342234e855f2f112bfc4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_621.asset using Guid(3692207e1f342234e855f2f112bfc4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '006ffed4c9aac81ff4927effde87321a') in 0.0051318 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=29fb24a61d3e47e90138a7d9215df30f DependenciesID=6e0bc0f1ed3c5ed09078a3ae943d2a58 StaticDependenciesID=fff7af44c7eb79ff4f9ff84de8e5a816 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_449.asset
+  importAddress: Guid(6ac3a3da63bb1804e9fe138d94a90760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_449.asset using Guid(6ac3a3da63bb1804e9fe138d94a90760) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'dc5caa2974b491cffe5f029d651b4972') in 0.0059468 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=74b4bd464ad81f9d97b59c6520f88a96 DependenciesID=b1a2787eedeacfab0041922fe0219ba5 StaticDependenciesID=0070730927af0c955ffb951ab75391a5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_624.asset
+  importAddress: Guid(a511b8fd6c8e22940a53255cf759b7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_624.asset using Guid(a511b8fd6c8e22940a53255cf759b7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '44cf73bb2e085be552a45ee11cc87822') in 0.0057532 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f66aea4a3ba47a751a6d0394806c1ccb DependenciesID=658ae727794e0e0d74172cc8c7ccd51b StaticDependenciesID=c513b401b54f6efe2a4d5da64a0c3b00 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_389.asset
+  importAddress: Guid(538243596167d6d46b77b8ae668d92a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_389.asset using Guid(538243596167d6d46b77b8ae668d92a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6557f43113f4be832aa3768f01e8cd92') in 0.0067744 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d42493e5269b3d276d6e74ba17cdf4cc DependenciesID=14dcc5907d4b8e25f5cecbbf07c22755 StaticDependenciesID=a079beb8ad197803f4535220d6436325 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_461.asset
+  importAddress: Guid(d0432bdf444413343a693cf15cf7edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_461.asset using Guid(d0432bdf444413343a693cf15cf7edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '5afd7c3e0e29ce4a2b1512a7ef69941a') in 0.0060039 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2a8179ee2fe8ed97008ef392a8f1b509 DependenciesID=ae2f9d45aa67395ac806613cb7bc205d StaticDependenciesID=ec6f978e655588f6a9e37b022be8f297 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_532.asset
+  importAddress: Guid(b1610d430b0febf4192cf791d2d6928c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_532.asset using Guid(b1610d430b0febf4192cf791d2d6928c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd85b3663c9bf05d326cf0fadb355a3b1') in 0.0089732 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c438d2501323a87810ca19f31a1069d0 DependenciesID=67cdfc6c23e739cfdae2cfe9181112e6 StaticDependenciesID=0adfef170ae2f8056e5e8e96be0dbdfe 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_324.asset
+  importAddress: Guid(f3fdab8810b6cb2499bcb1bfe7fbc154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_324.asset using Guid(f3fdab8810b6cb2499bcb1bfe7fbc154) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '5887cea9cca6d3bac80f0b43f80d8e73') in 0.0079697 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ed285c7a738b7aaa0931b20d07abf644 DependenciesID=d1aab4c4f5763d998a43f4c8da3c86d8 StaticDependenciesID=3747473bb73facf39ecf4d81e035ce5e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_247.asset
+  importAddress: Guid(7e88b783aa1717349ad6514e4e494ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_247.asset using Guid(7e88b783aa1717349ad6514e4e494ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3622300bc809dbf90432a5e911beb10c') in 0.0064414 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=79574036f7eb5877e43564a55d73f8e7 DependenciesID=d47b88a95e6a9a2e433e4b8877f413bd StaticDependenciesID=2d0ff7bc4db1cc8664528d1d9106b791 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_233.asset
+  importAddress: Guid(5f04ac8428bd83d4eb3cd5087015d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_233.asset using Guid(5f04ac8428bd83d4eb3cd5087015d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '58cf719742740472fc8d038b71f8dbab') in 0.0070492 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c1cbefc001a301d0609f2be656d9bd9d DependenciesID=cb2f088a4fc6714b0e2c1e8f5b669c3c StaticDependenciesID=0badbebb623c2439112256a3036f79cf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_386.asset
+  importAddress: Guid(a551e94632fbfb848b2f1a80788b90a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_386.asset using Guid(a551e94632fbfb848b2f1a80788b90a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f2d5f35ae3b44aa86510ce1b77386898') in 0.0127826 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8c29fd8b488eb40f3cb4d6c130e3c72a DependenciesID=69e62372282ce2eb315e8fbaba7082cd StaticDependenciesID=413861db4c72dec63a2f44af75721964 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_326.asset
+  importAddress: Guid(d12f7e786452cbe409549a02a20d548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_326.asset using Guid(d12f7e786452cbe409549a02a20d548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'b685d9df398b795af893bb42941ab63c') in 0.0116254 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5c80fc0040ebeb22f36b43c9221e0b8a DependenciesID=f71bc0cb80ec655023b0325c29214180 StaticDependenciesID=de49f027b9a217158959a341859a3868 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_319.asset
+  importAddress: Guid(afe95a495c944914cbc894f412954fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_319.asset using Guid(afe95a495c944914cbc894f412954fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '42722e06dd7033e03af3931e4c1e7273') in 0.0098902 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=171d95d841f892f934dc84a8346ca8b2 DependenciesID=562da59e472f9a1ff09883345adc84b6 StaticDependenciesID=5a876c69d89f65d39e2c36bd8af572b3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_212.asset
+  importAddress: Guid(2aa152b2664a0c645a7c791c1bf4b465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_212.asset using Guid(2aa152b2664a0c645a7c791c1bf4b465) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'dce3ad45c3058582f767935b7e0f9d93') in 0.0063107 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a3826de8fae426a44a9b9da756913da4 DependenciesID=449eeff0b497621cf9707193afcc4b3e StaticDependenciesID=0a0b6e95fb874608e1c436c7a1c572e5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_396.asset
+  importAddress: Guid(fbf84c4e95eaffe49acb224df4919465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_396.asset using Guid(fbf84c4e95eaffe49acb224df4919465) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4fab05174a31637de30bae9ac433eaa6') in 0.0101883 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8039913ee9666bab2087a8f831311258 DependenciesID=523c1f23c1b840fb979f61c3780b99ba StaticDependenciesID=b7a8d13fda5ff7252bd6998178e9e32a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_531.asset
+  importAddress: Guid(07433fa58f933fb46a85ee83eb5ed5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_531.asset using Guid(07433fa58f933fb46a85ee83eb5ed5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0c851b6339ba46259626776db6065413') in 0.0105022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e2015347d3e4f5b43fcb1f3c0b9f28c7 DependenciesID=809ba13746d667d12bb03d3eaca19a5b StaticDependenciesID=1bf5b804f56245a1352f34400e110f0e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_446.asset
+  importAddress: Guid(18d78c30fe2d190428f16cc62a1b1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_446.asset using Guid(18d78c30fe2d190428f16cc62a1b1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '16a57d7336736de327fd259fd32f72d9') in 0.0070879 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87b22d3b840358b909a1d20552eef2a0 DependenciesID=c9080b8fc7c7cf38a1b8f6d673c4f0a2 StaticDependenciesID=2993cc2fa589fa3379fc8ec543279d6f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_528.asset
+  importAddress: Guid(8d4c081d1edfdc14788b688eb47444d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_528.asset using Guid(8d4c081d1edfdc14788b688eb47444d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '30a120d7f364c043721297fb8e72e1dc') in 0.0070742 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=68d8252f9f2a8c92957a199f1d2b6053 DependenciesID=5268188603e6cd0ea3ee07cb2a10405a StaticDependenciesID=642060907b2ed7aeeede06b957a02b73 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_628.asset
+  importAddress: Guid(52873dd5bd55e6940abbce94124c5c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_628.asset using Guid(52873dd5bd55e6940abbce94124c5c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '248dbc9c20912f4a3d65f45e1ab00e10') in 0.0078176 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d272c86fabd3c36ba40cbd23ff1e5fed DependenciesID=57c4c6aee4178086a87440c8f8d8ddeb StaticDependenciesID=d650be15cbb8f3cd42a6208199b04b64 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_565.asset
+  importAddress: Guid(ce5a9b36f4996e345bcf0cec617253a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_565.asset using Guid(ce5a9b36f4996e345bcf0cec617253a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8b953a405a6ef1c08d899212f7f8aca0') in 0.0139453 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e31389ff9ed4f1305526df538cd76a6b DependenciesID=a39db08e7b2a93214239377ab7262f0b StaticDependenciesID=eb17c56cb55771f9c854836ea1e2f925 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_607.asset
+  importAddress: Guid(bfeb9d76eff2f184fbbe20b6dda47849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_607.asset using Guid(bfeb9d76eff2f184fbbe20b6dda47849) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9bc5d6992ab90f3b48b43f143d0ed2da') in 0.0102877 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=54327f8bab057be4647fda75a98aefb9 DependenciesID=609027fc2277191f003924b888949b24 StaticDependenciesID=e7017a85f8eaa684d73499d1e727f8a4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_572.asset
+  importAddress: Guid(de3c551618bafb24fbf6dfc1ad3bb1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_572.asset using Guid(de3c551618bafb24fbf6dfc1ad3bb1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3aee90d2caf69840c4ce72e15589faea') in 0.0078488 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5963e7083984ecdbf438c62ea6c2492c DependenciesID=eaf38f85a63011f7cdaf3d8c69b1fd6c StaticDependenciesID=f0302a6abe02aab5c0cd24150b6498e1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_381.asset
+  importAddress: Guid(e055d228858a9fa468f5cb3f5d19a36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_381.asset using Guid(e055d228858a9fa468f5cb3f5d19a36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '718e3a3e346ba73a9ea040adbdd4142d') in 0.0113127 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a103e43c48bfe36484f7e359ea673a9e DependenciesID=a8954368586a86126800c02a484f9b94 StaticDependenciesID=03e62af76ce1879711ab49f06763d14d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_673.asset
+  importAddress: Guid(ba298dd0d3c254242964c0b05d3c9e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_673.asset using Guid(ba298dd0d3c254242964c0b05d3c9e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6b6509f4d286f0b59572e706d2886eca') in 0.0056835 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e2bf8438bafd41df84d857d473c6aa29 DependenciesID=201d83b5a9db5aadfe0f5d6a84d8945a StaticDependenciesID=3b224a270bab83001a8cbd9bfb861506 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_342.asset
+  importAddress: Guid(b397f5cc6a7ac764bad3a6cd4e37a600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_342.asset using Guid(b397f5cc6a7ac764bad3a6cd4e37a600) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6a52b7cd42c0797fd993a13347ddb571') in 0.0148542 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=813a52d8a275a6e6b32155b7132241f0 DependenciesID=c22e4eb0fe526097a45f26e0b0458e03 StaticDependenciesID=5f1da744dace3d8e2488d60025440767 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_430.asset
+  importAddress: Guid(76f126ff3acece54bb127d28b0086753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_430.asset using Guid(76f126ff3acece54bb127d28b0086753) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c18ceb9438f62210ed4ca1e65c2d6b4c') in 0.0065987 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f987b05cc0868832751dea0f958eed53 DependenciesID=a4525e7957bcdd2be3b1ee1111097b0f StaticDependenciesID=7c064e3a9739019f519058cf1de98bf6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_499.asset
+  importAddress: Guid(2b43c603861714c4696fd71d8436612c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_499.asset using Guid(2b43c603861714c4696fd71d8436612c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f05c53f7293090adc560595fdfd46f0b') in 0.0069574 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=04fdee85743596b8dfc0fef1381bcbfa DependenciesID=9896026060f48cb55c82516375a23c85 StaticDependenciesID=ad922f6a3fbb3d40596acae061f655ea 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_468.asset
+  importAddress: Guid(b267962755df78c46b2a0a2075ee1d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_468.asset using Guid(b267962755df78c46b2a0a2075ee1d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'cc3da4e0f3cd9da14ea66cfa310d7a65') in 0.0112488 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3c30756c66672b6b19a46c336bb40d2f DependenciesID=c10668c44dd033dc2f361a911ce6fd20 StaticDependenciesID=39629cdddc1a3a5b5ee7cea10eeb8ca1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_223.asset
+  importAddress: Guid(be63e283c64e7194abcb8a20691bb82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_223.asset using Guid(be63e283c64e7194abcb8a20691bb82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '81d510143bc9c399818fc57abac9831d') in 0.0065819 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=91d00977e880e824d54ef9dfcb2c00ca DependenciesID=581e8d61aaf540ba28fe993a69f1bf96 StaticDependenciesID=9fc944b11c9b8d2a84851b1c8520dfe9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_354.asset
+  importAddress: Guid(f12486a130e33f2459272d3da9c3cf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_354.asset using Guid(f12486a130e33f2459272d3da9c3cf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2b6fe307e24a259354159cd4f24b3693') in 0.0053688 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=055b850a46d159a5557efa203ffb0a34 DependenciesID=fefb5d03383853e4a85a526cc46abf0b StaticDependenciesID=8b69af0d00c3524c1fbdb57b411dc1f9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_394.asset
+  importAddress: Guid(f474fcc4b16594b4b876c0c52b6d9ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_394.asset using Guid(f474fcc4b16594b4b876c0c52b6d9ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '97d7fbc685c4eec38637b65c3569f9f8') in 0.0073928 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7f85baf789d44e67a76311a58b170129 DependenciesID=cb5acd66fa69076963d03e4853b13941 StaticDependenciesID=e77671d2a7db01f1cb4270281fed0dc7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_594.asset
+  importAddress: Guid(b9402922ecb2ef54e98638a690ba0d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_594.asset using Guid(b9402922ecb2ef54e98638a690ba0d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'df8fea6bdc978b2e159cbfb3c4889218') in 0.0073347 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=853ee480e3d7245aba0230f969982f40 DependenciesID=477c8d8401b5af38f3a56a38d948dea2 StaticDependenciesID=acb9d256ac3aafcd66aa831daf9781cc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_433.asset
+  importAddress: Guid(cb228608162a8a94faa76134c046b6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_433.asset using Guid(cb228608162a8a94faa76134c046b6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9dc084d5401c34747add151d9fbd3e6e') in 0.0135559 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a6c7a63cb5feef65f06d13f6ec81ab30 DependenciesID=9cb44709b3cec20262193593a7b48e5f StaticDependenciesID=7c78a7698f622a74c2e4e4c85f3ae9dd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_444.asset
+  importAddress: Guid(93a7da38a6bb165489ee70e5d502ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_444.asset using Guid(93a7da38a6bb165489ee70e5d502ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '51778dc4b5733bfca8deeda795ff57ca') in 0.0101369 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0380d09d88f28aa3628d9a046e2dda89 DependenciesID=dabd80c7cbf12c5b3a55351990e1f853 StaticDependenciesID=92aebb578f0998820c2e781a508b247d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_356.asset
+  importAddress: Guid(2afcb86c591b5914fb31991d73ecd976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_356.asset using Guid(2afcb86c591b5914fb31991d73ecd976) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '72f8e15e3a2f2a6980d6259ba4da840d') in 0.0095017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=de5a709ee0e846d842216e97a0fe3fd4 DependenciesID=0af9ddef1eaa739031d2c3109faee8cf StaticDependenciesID=5224234c756086c97a7f9a1c5256a398 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_541.asset
+  importAddress: Guid(b993c69321939844b98ddcb57336c1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_541.asset using Guid(b993c69321939844b98ddcb57336c1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ba895300fbda544c6f3d5434ffa7a9d3') in 0.0055565 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c10cd46b764a373206dd96325cb33809 DependenciesID=d924da65816c98f98411316037c7b7e6 StaticDependenciesID=083921e18a3e72eb7016ddddf093deab 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_638.asset
+  importAddress: Guid(b59494d51817e244e86ea29dd6e87860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_638.asset using Guid(b59494d51817e244e86ea29dd6e87860) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '60a739b2146d201f1ba73b7e75fc3491') in 0.007618 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a97c6e88dfb00b2f6b46615e05948967 DependenciesID=065827d7452ca1de8e635faebed815ad StaticDependenciesID=da3271bfa21afb46357947df4ebb9de5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_205.asset
+  importAddress: Guid(0f0552ee94a121149b031d720488dfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_205.asset using Guid(0f0552ee94a121149b031d720488dfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f514618bb6c2fe69d971f8cece2809e5') in 0.0070427 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a67ef920f30692c1ae100a8cdd728bc9 DependenciesID=4123a6bf25e420b7686da42107131730 StaticDependenciesID=a0007bf410cad36ddc9c13db0797d366 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_263.asset
+  importAddress: Guid(75742dbb792bdeb43aae0429c84e13db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_263.asset using Guid(75742dbb792bdeb43aae0429c84e13db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8d8ce6192ab8b82b4c39f0e1027b1cf5') in 0.005303 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cff9d9794f86d1a6b86ece9247eb9e9d DependenciesID=b3d797e9597807c1bc161e98a72d4eb8 StaticDependenciesID=d0d94f33f4614eda3243355e6d5db5bf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_203.asset
+  importAddress: Guid(a30126561b9683f47aeb7aeb7296bad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_203.asset using Guid(a30126561b9683f47aeb7aeb7296bad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3e4d79a780fef3e46a7b32d58966f6f4') in 0.0096333 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=698023ef82d16d70276cc9dc77a66c44 DependenciesID=a2482b75059a3e61fc7835eed246d826 StaticDependenciesID=13392cd434700aa9a51018f77aa0b1aa 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_501.asset
+  importAddress: Guid(b8ea6b5ef54d63444bb86293a0e134a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_501.asset using Guid(b8ea6b5ef54d63444bb86293a0e134a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7b79b910711be4172e1c829b8222a891') in 0.0080009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fc883f99e6168c16cb9aba1d95e96ff5 DependenciesID=515142a4cf0dd69a2815b11bdccdf916 StaticDependenciesID=a86fe1946106602e5ff62b1c7697db56 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_675.asset
+  importAddress: Guid(74e72681d33f1c74e96b3e56a6994003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_675.asset using Guid(74e72681d33f1c74e96b3e56a6994003) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ef469d80245ffcbbdaf73c1a4b090d69') in 0.0059367 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c3d4926907790ca461bfe206c8a8f14a DependenciesID=1e989575c2c4b29f7612a07a0dbeb585 StaticDependenciesID=c660217dde78dd0461c938b9e9b3a45a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_491.asset
+  importAddress: Guid(941186b943a89054794541fec8c347f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_491.asset using Guid(941186b943a89054794541fec8c347f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'fa5251553711b75c7019b1572145ba2e') in 0.0065541 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=37b2234eed62d96e9a2ef49c343e49f9 DependenciesID=a4e96acedac8f71b3cd1add192cae6df StaticDependenciesID=c2d1d7932ae806a57aa95926681ce7f2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_506.asset
+  importAddress: Guid(9551cde27bfd9da4ab9ffd855f6b206c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_506.asset using Guid(9551cde27bfd9da4ab9ffd855f6b206c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ad11c3024dc407cfb54d897059b3f5d5') in 0.0108291 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=242b8586e06e80019e807067c21edd87 DependenciesID=b1720e9e22eec691b0f2bb663549ac5c StaticDependenciesID=c76d399cf5205ce040e6695eb3159832 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_432.asset
+  importAddress: Guid(00e9a75391cb90349b29a27692c7b3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_432.asset using Guid(00e9a75391cb90349b29a27692c7b3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '04c571cbf3fc6107b78b61e59875d630') in 0.0054122 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a133e8f5551336108a566f18d68d6f91 DependenciesID=4620eb805e524b813f00486093d13107 StaticDependenciesID=47efed0135eb3a6cb4d61ba997511e1c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_647.asset
+  importAddress: Guid(5a84f99b7a010044694e92de09d4c3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_647.asset using Guid(5a84f99b7a010044694e92de09d4c3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4093ce43cd0019affe2373bf8ee4affb') in 0.0069393 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5f7e633f621d6321c3432ccb6b85d30a DependenciesID=8c407ee3050cd7c2bce5cdb77a1532d8 StaticDependenciesID=974d8d537441f0d7323e2f32675e121e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_641.asset
+  importAddress: Guid(fe64758ef49a1124186d69a49ebb8656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_641.asset using Guid(fe64758ef49a1124186d69a49ebb8656) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '125176f45c679b2b80c4eab2c1762edd') in 0.0060475 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1e8cccc5ef6f3bc5bc5f9f53222a9525 DependenciesID=fb43483f335a68b434d892fb81168afb StaticDependenciesID=eafd76142d0bd4b0200aeb6efed2f8e0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_585.asset
+  importAddress: Guid(dcf78ca1b0f7f99488183e0e1884501c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_585.asset using Guid(dcf78ca1b0f7f99488183e0e1884501c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8d15836a8c078a1bdf1d943feecf235b') in 0.0057853 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6c394556b67358caf42f05383a136de4 DependenciesID=646d76e36d4a525a65ff1805c33c3cef StaticDependenciesID=29543fb84bd1e07e6fe5a9bc25dfe05e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_405.asset
+  importAddress: Guid(846666a7d847fbd4a826092de4121dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_405.asset using Guid(846666a7d847fbd4a826092de4121dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'b321d13189054edf0ab5e46167011a64') in 0.0049077 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=01770e3aaa9ff72e4f0006135b1726b3 DependenciesID=278a281c60a7e03b1f3d4544e46624fc StaticDependenciesID=d3e27cfc8c9c9a6e5fb6e4a00e0f1cb0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_378.asset
+  importAddress: Guid(91e3856263f611941b2e66b6be060b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_378.asset using Guid(91e3856263f611941b2e66b6be060b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f27508426940d4247825d795bebed031') in 0.0113025 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9d18f438a12e2f8a0b6917e978f9711a DependenciesID=c9f21874c6c7d7434c94afb77eade533 StaticDependenciesID=969dead9c8bcb8a46e1e6d5a51e7bfe1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_228.asset
+  importAddress: Guid(aad4f9f6d8058ef45a22e05125f68a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_228.asset using Guid(aad4f9f6d8058ef45a22e05125f68a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '56c753036e94694ec819e245f9403a6d') in 0.0063302 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d3ff9ca5cb543c8f8f3090526d265ae2 DependenciesID=fb6283e4cde3f015a95f8a32ddf11498 StaticDependenciesID=5dac5709e52421b200f6fecb1212ce9c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_295.asset
+  importAddress: Guid(4752a7c8820ef6144a5b1e62ebd48ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_295.asset using Guid(4752a7c8820ef6144a5b1e62ebd48ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '1e26c6ba2ee40c0dc9cd854f57fa8724') in 0.0053501 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3dee3b5fbf4ecc56e0e541e369194c04 DependenciesID=fba467820c100022ad84aae886d05e99 StaticDependenciesID=1ad1731d7fd163d273140d3d74d6867a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_633.asset
+  importAddress: Guid(83a637cc1d3d87740985aefacd7e184c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_633.asset using Guid(83a637cc1d3d87740985aefacd7e184c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0ab1ef82561f5b3f774451bab98e5ae3') in 0.0058421 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=610ba94c4fd74ad3f642ff6931d9a3a9 DependenciesID=dd9a71542943ca95c68fb4b6e8d81536 StaticDependenciesID=94fb05e0c681f3135ff6c9d1ec5fedf2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_269.asset
+  importAddress: Guid(980635cf3661a4945b6d5eb1e382440f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_269.asset using Guid(980635cf3661a4945b6d5eb1e382440f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '1ed36defb5da6f8bee0deb622fe44bc8') in 0.0071401 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=46675c2dcf6c39b641e425a9ce4d4ba9 DependenciesID=aa95d7dce807b8b2739c8843fef6e946 StaticDependenciesID=d1f95356e2309200e33f02490411bfa5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_439.asset
+  importAddress: Guid(f0fcb383d92c54043b64e215f0b5c87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_439.asset using Guid(f0fcb383d92c54043b64e215f0b5c87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6c725deb45860a58bee88cd996229ed0') in 0.007279 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=449fad42be7e58d269ce678b090aac89 DependenciesID=428bfb0422416d1885bb4dea84359420 StaticDependenciesID=7e683386543429e9f37eee935eb8e7b6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_338.asset
+  importAddress: Guid(166bf433a7ecd8440a4b0ea91ba4d124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_338.asset using Guid(166bf433a7ecd8440a4b0ea91ba4d124) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c866892e891455d771db83a190eed12f') in 0.0115741 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=84559e7bf7c452a0b818e6bcc4377a8d DependenciesID=eaa53a66106df93537033505152f3e39 StaticDependenciesID=b27d40e004885415be08f3aef80ee30b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_566.asset
+  importAddress: Guid(06bbdd0195aa0fd419e217c6e3dbe13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_566.asset using Guid(06bbdd0195aa0fd419e217c6e3dbe13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '283ad2d85713ab95742f4a2124a0254d') in 0.0065415 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=006c1bb1cf0aa609a0b69c7c74fc0e88 DependenciesID=6002762b3903fa7631836e7f8ed8b37e StaticDependenciesID=8e8655f06d09aac218d5c61a7fa46fb6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_282.asset
+  importAddress: Guid(5d7fcc507e29110448866506bc658658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_282.asset using Guid(5d7fcc507e29110448866506bc658658) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a97e61255a9c152c867873bde152862c') in 0.0055914 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=83ea9fe16ac090d3e28ad830204ae6b3 DependenciesID=aa07a3daeb79c60e28aa2609e0643130 StaticDependenciesID=531ad23bd2aaa75996681b243a3708f3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_230.asset
+  importAddress: Guid(92df1cece43d4e34baa86519335cf563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_230.asset using Guid(92df1cece43d4e34baa86519335cf563) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3e54a5f6aa965384b1a4b656ce93522f') in 0.0117805 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b2263c0300d19e5e77fe9673cb734ab4 DependenciesID=4b9c4528b2c63746ce37fccb614e907f StaticDependenciesID=dc115f4d38e9935e34b4de32b710b92e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_275.asset
+  importAddress: Guid(3b442234db7f6b445910b209ff9802eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_275.asset using Guid(3b442234db7f6b445910b209ff9802eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a647b87c9509c04adb6577fa1098ffe8') in 0.005483 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f48bf3af4934e158ac2e246e3cf36e1e DependenciesID=f938128c2bfe21839ea3391500947bdc StaticDependenciesID=99eecb13aa0034a70c24cdfdab591d70 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_238.asset
+  importAddress: Guid(66152e8c0e12f06459c3b44a9cc5b649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_238.asset using Guid(66152e8c0e12f06459c3b44a9cc5b649) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '543bb77ed02336cd9536e3143a579f50') in 0.0071346 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c556ef765f93873ff52c5e98201a85d7 DependenciesID=97aa54aa782ab470da59804b1c98c22c StaticDependenciesID=1b45655ae04ac1aebcc3af35dce507ee 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_524.asset
+  importAddress: Guid(4c565b373529bba418c6a8076d14cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_524.asset using Guid(4c565b373529bba418c6a8076d14cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'cfe95bf5a3f63b1c0a4272737b6bc87d') in 0.0126633 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=319a3e4b4185715aa33deacc6ba545f4 DependenciesID=969d82b857bdd09102d09946bed6baf8 StaticDependenciesID=37b662a97f2c194b712a7ddaf2647792 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_450.asset
+  importAddress: Guid(1d9bbaa9a64242149a354b390d84f7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_450.asset using Guid(1d9bbaa9a64242149a354b390d84f7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '944a1cd235727859af7adffe27ea457c') in 0.0107564 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=626dcf3d76ee28f82d790f8858992adc DependenciesID=71477c4e7d097dc0eb5dcb5e0f28bc18 StaticDependenciesID=605e64f1689bdcf6a9f5e91783a1f7de 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_225.asset
+  importAddress: Guid(5e2418422d723c64088c3531f965de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_225.asset using Guid(5e2418422d723c64088c3531f965de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3a2f196e7412f36679678f94ae385569') in 0.0063045 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1c6531a6de24c867b6f64e35a46273b1 DependenciesID=d6d6a7ef67242c1c143aade1fba90df0 StaticDependenciesID=3b7200deb9abfc94ed376cb4f644ba0d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_559.asset
+  importAddress: Guid(b726aff42d9d7884d9d748e7847b2f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_559.asset using Guid(b726aff42d9d7884d9d748e7847b2f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7c92f1e9089cadfe7f066d6f8205a0e6') in 0.0136631 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bbd25c54554ec1b520b073cf55bb77ca DependenciesID=1e11c5ce02e0970139841101cb57f9f2 StaticDependenciesID=93371a33711e2cd56e3d787be4cbd8b0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_457.asset
+  importAddress: Guid(b07b036352e8e704080fa6c0bf0f42cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_457.asset using Guid(b07b036352e8e704080fa6c0bf0f42cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9f001f2b8d05e1781139e4a8bfb7285e') in 0.0077452 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1dea52b7dfd1c6c37284e5155400b4d4 DependenciesID=3a976e8d705043757945fa0d98771c84 StaticDependenciesID=1a7a8fb24e4b6f931ab364bdae538dec 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_497.asset
+  importAddress: Guid(42c9b37eef609cd4b817b6b96dca80f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_497.asset using Guid(42c9b37eef609cd4b817b6b96dca80f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '03fc0a443adb4104f2ea12f43ee7257a') in 0.0077664 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8c8d816bda8cf00887cfc7c6bc9e2b5b DependenciesID=68f4f6be57e2e248f0568e11dab6db8d StaticDependenciesID=9d7a41752276e4510bffeefeeff653a6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_352.asset
+  importAddress: Guid(829641d854857ce40baf2eb1be912340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_352.asset using Guid(829641d854857ce40baf2eb1be912340) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '180dbe230dfa8b36395f0a415e503e91') in 0.006965 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3df622be6e7d7b827dd1389aabed6769 DependenciesID=edb1dbe364537a8b49bd7660bed373f7 StaticDependenciesID=e6d990f89e79029b1fb7a610e349dc85 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_568.asset
+  importAddress: Guid(871cf652260d32b4480c3acea5554e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_568.asset using Guid(871cf652260d32b4480c3acea5554e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4a49c1c924667beec216764330c293e3') in 0.0087388 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c82a60eb329d1533a59bed4bce3ffc63 DependenciesID=ec6598b27bb37fe8003ce13a859e7134 StaticDependenciesID=6917753946d8900cf5906501b27fce0a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_570.asset
+  importAddress: Guid(df43e97f85c422448b0f5eabaa95990c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_570.asset using Guid(df43e97f85c422448b0f5eabaa95990c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a00dbf7eb5dac72130eb5f2735047df6') in 0.0092013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=633b6a1089959d9934885c203ccea0b1 DependenciesID=a00cf972f4f9b8e4daf1da8ef56f10e1 StaticDependenciesID=fd1f4131ea884a40d8000d9424e176ce 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_613.asset
+  importAddress: Guid(08ca02544f2963744900303cf5b9b58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_613.asset using Guid(08ca02544f2963744900303cf5b9b58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '17ee7e8beaa21005d8253b757d4f8288') in 0.0074786 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=43b6e640ff3986fa87eab1b063521b5f DependenciesID=dd74313730dd014cf814b2f165878bf7 StaticDependenciesID=96e2f63324cb33f85357fe6134f2f647 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Media/Temp/grass_tileset_16x16_preview_0_595.asset
+  importAddress: Guid(ba47488a3f0735849b44ed55cdd1c6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Media/Temp/grass_tileset_16x16_preview_0_595.asset using Guid(ba47488a3f0735849b44ed55cdd1c6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0cebc3761223d33a4bdea12bfce5f00c') in 0.0091379 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9b8391f71c102f2491fc53e320fdb511 DependenciesID=13caad12bfb5f1eef8e28b7881d4d953 StaticDependenciesID=787caff729b47d35adca9e363bdced19 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
