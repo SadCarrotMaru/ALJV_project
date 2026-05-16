@@ -3,56 +3,96 @@
   "WorkspaceRootPath": "G:\\Unity\\ALJV_GA_RL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|g:\\unity\\aljv_ga_rl\\assets\\scripts\\world\\managers\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\managers\\boardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\boardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|g:\\unity\\aljv_ga_rl\\assets\\scripts\\ui\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\converterstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\converterstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\structureinventoryitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\structureinventoryitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\fabricstrategicsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\fabricstrategicsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\resourcecounterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\resourcecounterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\strategicaimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\strategicaimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\tileplacementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tileplacementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\placementheuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\placementheuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\inv\u0026econ\\collectorpayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv\u0026econ\\collectorpayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|g:\\unity\\aljv_ga_rl\\assets\\scripts\\ai\\gaplayerbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\gaplayerbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\inv\u0026econ\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv\u0026econ\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\playerruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\playerruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\inv\u0026econ\\economymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv\u0026econ\\economymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\rlplayerbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\rlplayerbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\qtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\qtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\observedplayersummaryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\observedplayersummaryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\playerviewswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\playerviewswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\ga\\geneticblueprintplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\ga\\geneticblueprintplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\ga\\blueprintevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\ga\\blueprintevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\ga\\geneticblueprintmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\ga\\geneticblueprintmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\strategicstateencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\strategicstateencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\strategicactioncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\strategicactioncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\structuredefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\structuredefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\managers\\boardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\boardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\structuredetailspanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\structuredetailspanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\managers\\basicpipelineuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\basicpipelineuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\structuremodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\structuremodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\managers\\fabricsimulationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\fabricsimulationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\producerstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\producerstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\tilez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\tilez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\tileplacementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tileplacementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\retrieverstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\observerstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\converterstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\converterstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\assemblylinestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\assemblylinestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,20 +119,68 @@
       "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\collectorstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\producerstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\producerstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\structureupgrademodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\structureupgrademodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\managers\\basicpipelineuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\basicpipelineuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\inv\u0026econ\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv\u0026econ\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\resourcecounterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\resourcecounterui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\structureinventoryitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\structureinventoryitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ui\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\managers\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\ga\\blueprintapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\ga\\blueprintapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\runtimestrategicadvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\runtimestrategicadvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\ai\\strategicqlearningtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\strategicqlearningtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\matchclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\matchclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\inv\u0026econ\\collectorpayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv\u0026econ\\collectorpayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\inv\u0026econ\\economymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv\u0026econ\\economymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\managers\\fabricsimulationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\managers\\fabricsimulationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\tilez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\tilez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\directionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\directionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\structures\\structuremodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structures\\structuremodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF408B3-FE9F-AC5A-DAD5-986F085F4890}|Assembly-CSharp.csproj|G:\\Unity\\ALJV_GA_RL\\assets\\scripts\\world\\ui\\tilemapbuildunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,61 +202,499 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShopManager.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\ShopManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Managers\\ShopManager.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\ShopManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\World\\Managers\\ShopManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "GAPlayerBrain.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GAPlayerBrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GAPlayerBrain.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GAPlayerBrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GAPlayerBrain.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswIsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T17:47:58.919Z",
+              "WhenOpened": "2026-05-02T17:20:11.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShopItemUI.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ShopItemUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ShopItemUI.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ShopItemUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\ShopItemUI.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwFMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "QTable.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\QTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\QTable.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\QTable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\QTable.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswIMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T17:47:32.24Z",
+              "WhenOpened": "2026-04-27T15:28:55.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RLPlayerBrain.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\RLPlayerBrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\RLPlayerBrain.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\RLPlayerBrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\RLPlayerBrain.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswFsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:19:50.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardManager.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BoardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Managers\\BoardManager.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BoardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\Managers\\BoardManager.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAswIUBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:01:39.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerRuntime.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\PlayerRuntime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\PlayerRuntime.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\PlayerRuntime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\PlayerRuntime.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAkwCcBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:17:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlacementHeuristics.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\PlacementHeuristics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\PlacementHeuristics.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\PlacementHeuristics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\PlacementHeuristics.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAswOsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:17:36.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StrategicAIModels.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicAIModels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\StrategicAIModels.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicAIModels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\StrategicAIModels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:26:16.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StructureInventoryItemUI.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEoAAAABAAAAAAAAAA==",
+              "Title": "FabricStrategicSimulator.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\FabricStrategicSimulator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\FabricStrategicSimulator.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\FabricStrategicSimulator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\FabricStrategicSimulator.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAmwPUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T17:47:12.372Z"
+              "WhenOpened": "2026-04-27T15:31:14.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ConverterStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ConverterStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\ConverterStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ConverterStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\ConverterStructure.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAA7wJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:39:58.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerViewSwitcher.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\PlayerViewSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\PlayerViewSwitcher.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\PlayerViewSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\PlayerViewSwitcher.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:20:42.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObservedPlayerSummaryUI.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ObservedPlayerSummaryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ObservedPlayerSummaryUI.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ObservedPlayerSummaryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ObservedPlayerSummaryUI.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:21:35.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneticBlueprintPlanner.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\GeneticBlueprintPlanner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GA\\GeneticBlueprintPlanner.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\GeneticBlueprintPlanner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GA\\GeneticBlueprintPlanner.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAvwDoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:35:35.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlueprintEvaluator.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\BlueprintEvaluator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GA\\BlueprintEvaluator.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\BlueprintEvaluator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GA\\BlueprintEvaluator.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAswPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:34:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GeneticBlueprintModels.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\GeneticBlueprintModels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GA\\GeneticBlueprintModels.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\GeneticBlueprintModels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GA\\GeneticBlueprintModels.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:34:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StrategicStateEncoder.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicStateEncoder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\StrategicStateEncoder.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicStateEncoder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\StrategicStateEncoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:28:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StrategicActionCatalog.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicActionCatalog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\StrategicActionCatalog.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicActionCatalog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\StrategicActionCatalog.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:27:15.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StructureDefinition.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureDefinition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\StructureDefinition.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureDefinition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\StructureDefinition.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:40:35.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StructureDetailsPanelUI.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\StructureDetailsPanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StructureDetailsPanelUI.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\StructureDetailsPanelUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\StructureDetailsPanelUI.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAADwv9sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:41:21.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StructureModels.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureModels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\StructureModels.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureModels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\StructureModels.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAnwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:30:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\Structure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\Structure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\Structure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\Structure.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAzwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:32:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TilePlacementController.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\TilePlacementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TilePlacementController.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\TilePlacementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TilePlacementController.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAnwAQBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:33:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProducerStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ProducerStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\ProducerStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ProducerStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\ProducerStructure.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:39:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameUIController.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\GameUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameUIController.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\GameUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameUIController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwJ4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:48:44.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DelayerStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\DelayerStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\DelayerStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\DelayerStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\DelayerStructure.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwEAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:40:25.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MagicalConverterStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:40:18.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ObserverStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ObserverStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\ObserverStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ObserverStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\ObserverStructure.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwHMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:40:10.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyLineStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:39:51.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CollectorStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\CollectorStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\CollectorStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\CollectorStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\CollectorStructure.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:39:44.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RetrieverStructure.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\RetrieverStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\RetrieverStructure.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\RetrieverStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\RetrieverStructure.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:40:34.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StructureUpgradeModels.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureUpgradeModels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\StructureUpgradeModels.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureUpgradeModels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structures\\StructureUpgradeModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T15:04:14.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BasicPipelineUIController.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:39:46.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwEsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:42:23.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "ResourceCounterUI.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ResourceCounterUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ResourceCounterUI.cs",
               "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ResourceCounterUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ResourceCounterUI.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T17:46:35.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 33,
+              "Title": "StructureInventoryItemUI.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\StructureInventoryItemUI.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:47:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShopItemUI.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ShopItemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ShopItemUI.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\ShopItemUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ShopItemUI.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:47:32.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Managers\\ShopManager.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\ShopManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\Managers\\ShopManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:47:58.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StrategicQLearningTrainer.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicQLearningTrainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\StrategicQLearningTrainer.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\StrategicQLearningTrainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\StrategicQLearningTrainer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:31:57.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RuntimeStrategicAdvisor.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\RuntimeStrategicAdvisor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\RuntimeStrategicAdvisor.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\RuntimeStrategicAdvisor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\RuntimeStrategicAdvisor.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:33:10.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BlueprintApplier.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\BlueprintApplier.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GA\\BlueprintApplier.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\AI\\GA\\BlueprintApplier.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GA\\BlueprintApplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:36:42.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MatchClock.cs",
+              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\MatchClock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\MatchClock.cs",
+              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\MatchClock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\MatchClock.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:24:16.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "CollectorPayoutManager.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Inv\u0026Econ\\CollectorPayoutManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inv\u0026Econ\\CollectorPayoutManager.cs",
@@ -184,19 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerInventory.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Inv\u0026Econ\\PlayerInventory.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAuwKcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T17:42:23.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 41,
               "Title": "EconomyModels.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Inv\u0026Econ\\EconomyModels.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inv\u0026Econ\\EconomyModels.cs",
@@ -208,43 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StructureDefinition.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureDefinition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\StructureDefinition.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureDefinition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\StructureDefinition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T17:40:35.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BasicPipelineUIController.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\World\\Managers\\BasicPipelineUIController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAuwHgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T15:39:46.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TilePlacementController.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\TilePlacementController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TilePlacementController.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\UI\\TilePlacementController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\TilePlacementController.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAIwLQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T15:33:13.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 42,
               "Title": "FabricSimulationManager.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\FabricSimulationManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Managers\\FabricSimulationManager.cs",
@@ -256,103 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ConverterStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ConverterStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\ConverterStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ConverterStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\ConverterStructure.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAwEsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:39:58.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CollectorStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\CollectorStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\CollectorStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\CollectorStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\CollectorStructure.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:39:44.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AssemblyLineStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\AssemblyLineStructure.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:39:51.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ObserverStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ObserverStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\ObserverStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ObserverStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\ObserverStructure.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAwGEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:40:10.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BoardManager.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BoardManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Managers\\BoardManager.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Managers\\BoardManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\World\\Managers\\BoardManager.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAswMoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T16:01:39.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MagicalConverterStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\MagicalConverterStructure.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAwFUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:40:18.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DelayerStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\DelayerStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\DelayerStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\DelayerStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\DelayerStructure.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:40:25.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RetrieverStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\RetrieverStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\RetrieverStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\RetrieverStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\RetrieverStructure.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:40:34.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 43,
               "Title": "Tilez.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\Tilez.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\Tilez.cs",
@@ -364,31 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProducerStructure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ProducerStructure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\ProducerStructure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\ProducerStructure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\ProducerStructure.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:39:38.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Structure.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\Structure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\Structure.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\Structure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\Structure.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAkwMgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:32:00.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 44,
               "Title": "DirectionExtensions.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\DirectionExtensions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\DirectionExtensions.cs",
@@ -400,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 45,
               "Title": "TilemapBuildUnity.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\UI\\TilemapBuildUnity.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\UI\\TilemapBuildUnity.cs",
@@ -412,19 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "StructureModels.cs",
-              "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureModels.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Structures\\StructureModels.cs",
-              "ToolTip": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\Structures\\StructureModels.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Structures\\StructureModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T14:30:42.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 47,
               "Title": "FabricSimulationManager.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\FabricSimulationManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\FabricSimulationManager.cs",
@@ -436,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 46,
               "Title": "TileMapManager.cs",
               "DocumentMoniker": "G:\\Unity\\ALJV_GA_RL\\Assets\\Scripts\\World\\TileMapManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World\\TileMapManager.cs",

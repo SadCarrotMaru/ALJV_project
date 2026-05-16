@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f325bfdec681be489e3cf346e84e9f6, type: 3}
+  m_Name: Converter_Def
+  m_EditorClassIdentifier: Assembly-CSharp::StructureDefinition
+  Id: 7
+  DisplayName: Converter
+  Icon: {fileID: -1202001175, guid: 2623093c078dbfd4696b17abde4ce6cd, type: 3}
+  StructureType: 3
+  ResourceVariant: 0
+  BuyCost:
+  - Resource: 1
+    Amount: 1
+  - Resource: 2
+    Amount: 1
+  - Resource: 3
+    Amount: 1
+  MaxLevel: 1
+  UpgradeCosts: []
+  ProducerRate: 1
+  AssemblyLineTravelTime: 0.4
+  DelayerInterval: 1
+  ConverterRecipes:
+  - Input: 1
+    Output: 2
+    InputAmount: 3
+    OutputAmount: 1
+  - Input: 1
+    Output: 3
+    InputAmount: 3
+    OutputAmount: 1
+  - Input: 2
+    Output: 1
+    InputAmount: 3
+    OutputAmount: 1
+  - Input: 2
+    Output: 3
+    InputAmount: 3
+    OutputAmount: 1
+  - Input: 3
+    Output: 1
+    InputAmount: 3
+    OutputAmount: 1
+  - Input: 3
+    Output: 2
+    InputAmount: 3
+    OutputAmount: 1
